@@ -23,6 +23,15 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "www.google.com",
+      "name": "Moda do Cheff",
+      "price": "50,00",
+      "description": "Delicioso",
+      "available": true,
+      "id": 4,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     }
   ]
 }
